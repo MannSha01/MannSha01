@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mann 👋
 
-<!--
-**MannSha01/MannSha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Student** at VIT Bhopal  
+**Branch:** Computer Science Engineering  
+**Currtently in 1st Year**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+I am passionate about learning digital tools, coding, and building projects that make technology more accessible and user‑friendly. My goal is to grow as a developer and contribute to meaningful projects during my college years.
+
+---
+
+##  What I Hope to Learn
+Over the next four years, I want to:
+- Strengthen my coding skills in Python and other languages  
+- Explore open‑source collaboration on GitHub  
+- Build practical projects that solve real‑world problems  
+- Develop a professional digital presence  
+
+---
+
+##  Quick Facts
+- I enjoy reading, writing, and exploring creative ideas  
+- Interested in accessibility and inclusive design in tech  
+- Always curious about merging creativity with coding  
+
+---
+
+✨ *This README is part of my Digital Literacy Project (CSE0001) and marks the beginning of my professional digital portfolio.*
